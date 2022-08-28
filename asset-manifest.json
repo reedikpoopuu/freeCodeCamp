@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/freeCodeCamp/static/css/main.013aba10.css",
-    "main.js": "/freeCodeCamp/static/js/main.2465015b.js",
+    "main.css": "/freeCodeCamp/static/css/main.c02e838e.css",
+    "main.js": "/freeCodeCamp/static/js/main.b80fa435.js",
     "static/js/787.cb80bf76.chunk.js": "/freeCodeCamp/static/js/787.cb80bf76.chunk.js",
+    "static/media/logo_large.png": "/freeCodeCamp/static/media/logo_large.07b5affe86debf21b79d.png",
     "static/media/logo.svg": "/freeCodeCamp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/freeCodeCamp/index.html",
-    "main.013aba10.css.map": "/freeCodeCamp/static/css/main.013aba10.css.map",
-    "main.2465015b.js.map": "/freeCodeCamp/static/js/main.2465015b.js.map",
+    "main.c02e838e.css.map": "/freeCodeCamp/static/css/main.c02e838e.css.map",
+    "main.b80fa435.js.map": "/freeCodeCamp/static/js/main.b80fa435.js.map",
     "787.cb80bf76.chunk.js.map": "/freeCodeCamp/static/js/787.cb80bf76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.013aba10.css",
-    "static/js/main.2465015b.js"
+    "static/css/main.c02e838e.css",
+    "static/js/main.b80fa435.js"
   ]
 }
