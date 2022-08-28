@@ -1,7 +1,7 @@
 import './App.css';
-import Header from "./App-header";
-import Reasons from "./App-reasons";
-import Footer from "./App-footer";
+import Header from "./components/App-header";
+import Reasons from "./components/App-reasons";
+import Footer from "./components/App-footer";
 
 function App() {
   return (
